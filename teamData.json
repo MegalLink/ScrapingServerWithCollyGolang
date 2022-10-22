@@ -1,0 +1,132 @@
+{
+	"teamName": "real-madrid",
+	"teamLink": "https://es.besoccer.com/equipo/real-madrid",
+	"matchsInformation": [
+		{
+			"matchLink": "https://es.besoccer.com/partido/elche/real-madrid/202349465",
+			"matchResult": "0 - 3",
+			"isWinner": false,
+			"localTeam": {
+				"teamLocationState": "local",
+				"teamName": "Elche",
+				"totalGoals": "0",
+				"posessionPercent": "38%",
+				"corners": "8",
+				"yellowCards": "1"
+			},
+			"visitorTeam": {
+				"teamLocationState": "visitor",
+				"teamName": "Real Madrid",
+				"totalGoals": "3",
+				"posessionPercent": "62%",
+				"corners": "2",
+				"yellowCards": "1"
+			}
+		},
+		{
+			"matchLink": "https://es.besoccer.com/partido/real-madrid/barcelona/202349450",
+			"matchResult": "3 - 1",
+			"isWinner": false,
+			"localTeam": {
+				"teamLocationState": "local",
+				"teamName": "Real Madrid",
+				"totalGoals": "3",
+				"posessionPercent": "43%",
+				"corners": "2",
+				"yellowCards": "2"
+			},
+			"visitorTeam": {
+				"teamLocationState": "visitor",
+				"teamName": "Barcelona",
+				"totalGoals": "1",
+				"posessionPercent": "57%",
+				"corners": "3",
+				"yellowCards": "2"
+			}
+		},
+		{
+			"matchLink": "https://es.besoccer.com/partido/fc-shakhtar-donetsk/real-madrid/2023365695",
+			"matchResult": "1 - 1",
+			"isWinner": false,
+			"localTeam": {
+				"teamLocationState": "local",
+				"teamName": "Shakhtar Donetsk",
+				"totalGoals": "1",
+				"posessionPercent": "45%",
+				"corners": "6",
+				"yellowCards": "2"
+			},
+			"visitorTeam": {
+				"teamLocationState": "visitor",
+				"teamName": "Real Madrid",
+				"totalGoals": "1",
+				"posessionPercent": "55%",
+				"corners": "11",
+				"yellowCards": "2"
+			}
+		},
+		{
+			"matchLink": "https://es.besoccer.com/partido/getafe/real-madrid/202349418",
+			"matchResult": "0 - 1",
+			"isWinner": false,
+			"localTeam": {
+				"teamLocationState": "local",
+				"teamName": "Getafe",
+				"totalGoals": "0",
+				"posessionPercent": "34%",
+				"corners": "4",
+				"yellowCards": "0"
+			},
+			"visitorTeam": {
+				"teamLocationState": "visitor",
+				"teamName": "Real Madrid",
+				"totalGoals": "1",
+				"posessionPercent": "66%",
+				"corners": "4",
+				"yellowCards": "0"
+			}
+		},
+		{
+			"matchLink": "https://es.besoccer.com/partido/real-madrid/fc-shakhtar-donetsk/2023365694",
+			"matchResult": "2 - 1",
+			"isWinner": false,
+			"localTeam": {
+				"teamLocationState": "local",
+				"teamName": "Real Madrid",
+				"totalGoals": "2",
+				"posessionPercent": "56%",
+				"corners": "10",
+				"yellowCards": "0"
+			},
+			"visitorTeam": {
+				"teamLocationState": "visitor",
+				"teamName": "Shakhtar Donetsk",
+				"totalGoals": "1",
+				"posessionPercent": "44%",
+				"corners": "1",
+				"yellowCards": "2"
+			}
+		},
+		{
+			"matchLink": "https://es.besoccer.com/partido/real-madrid/osasuna/202349436",
+			"matchResult": "1 - 1",
+			"isWinner": false,
+			"localTeam": {
+				"teamLocationState": "local",
+				"teamName": "Real Madrid",
+				"totalGoals": "1",
+				"posessionPercent": "64%",
+				"corners": "10",
+				"yellowCards": "1"
+			},
+			"visitorTeam": {
+				"teamLocationState": "visitor",
+				"teamName": "Osasuna",
+				"totalGoals": "1",
+				"posessionPercent": "36%",
+				"corners": "2",
+				"yellowCards": "2"
+			}
+		}
+	]
+}
